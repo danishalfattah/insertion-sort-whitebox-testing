@@ -2,8 +2,6 @@
 
 Repositori ini berisi implementasi algoritma **Insertion Sort** beserta pengujian performa **Basis Path Testing** (Whitebox Testing).
 
-Proyek ini dibuat sebagai bagian dari tugas mata kuliah Pengujian Perangkat Lunak (Software Testing) untuk menghitung Cyclomatic Complexity (V(G)) dan membuat Independent Basis Paths pada algoritma Insertion Sort.
-
 ## Struktur File
 
 - **`insertionSort.js`**: Implementasi algoritma Insertion Sort.
